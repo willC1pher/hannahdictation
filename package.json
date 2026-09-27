@@ -1,0 +1,20 @@
+{
+  "name": "hannahdictation",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Chinese handwriting recognition and dictation practice for Cloudflare Pages.",
+  "scripts": {
+    "postinstall": "node scripts/setup-assets.mjs --best-effort",
+    "setup": "node scripts/setup-assets.mjs",
+    "verify:assets": "node scripts/setup-assets.mjs --verify",
+    "dev": "node scripts/dev-server.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/dev-server.mjs dist 4173",
+    "test": "node --test tests/*.test.mjs",
+    "verify": "npm run test && npm run build"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

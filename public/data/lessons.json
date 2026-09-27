@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "greeting-001",
+    "chinese": "你好",
+    "answer": "你好",
+    "pinyin": "nǐ hǎo",
+    "translation": "Hello",
+    "difficulty": 1,
+    "category": "greetings",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "你好"
+    }
+  },
+  {
+    "id": "greeting-002",
+    "chinese": "您好",
+    "answer": "您好",
+    "pinyin": "nín hǎo",
+    "translation": "Hello (polite)",
+    "difficulty": 1,
+    "category": "greetings",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "您好"
+    }
+  },
+  {
+    "id": "greeting-003",
+    "chinese": "早上好",
+    "answer": "早上好",
+    "pinyin": "zǎoshang hǎo",
+    "translation": "Good morning",
+    "difficulty": 1,
+    "category": "greetings",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "早上好"
+    }
+  },
+  {
+    "id": "greeting-004",
+    "chinese": "晚上好",
+    "answer": "晚上好",
+    "pinyin": "wǎnshang hǎo",
+    "translation": "Good evening",
+    "difficulty": 1,
+    "category": "greetings",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "晚上好"
+    }
+  },
+  {
+    "id": "greeting-005",
+    "chinese": "再见",
+    "answer": "再见",
+    "pinyin": "zàijiàn",
+    "translation": "Goodbye",
+    "difficulty": 1,
+    "category": "greetings",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "再见"
+    }
+  },
+  {
+    "id": "greeting-006",
+    "chinese": "谢谢",
+    "answer": "谢谢",
+    "pinyin": "xièxie",
+    "translation": "Thank you",
+    "difficulty": 1,
+    "category": "greetings",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "谢谢"
+    }
+  },
+  {
+    "id": "greeting-007",
+    "chinese": "不客气",
+    "answer": "不客气",
+    "pinyin": "bú kèqi",
+    "translation": "You're welcome",
+    "difficulty": 1,
+    "category": "greetings",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "不客气"
+    }
+  },
+  {
+    "id": "greeting-008",
+    "chinese": "对不起",
+    "answer": "对不起",
+    "pinyin": "duìbuqǐ",
+    "translation": "Sorry",
+    "difficulty": 1,
+    "category": "greetings",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "对不起"
+    }
+  },
+  {
+    "id": "greeting-009",
+    "chinese": "没关系",
+    "answer": "没关系",
+    "pinyin": "méi guānxi",
+    "translation": "It's okay",
+    "difficulty": 1,
+    "category": "greetings",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "没关系"
+    }
+  },
+  {
+    "id": "greeting-010",
+    "chinese": "请问",
+    "answer": "请问",
+    "pinyin": "qǐngwèn",
+    "translation": "Excuse me / may I ask",
+    "difficulty": 1,
+    "category": "greetings",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "请问"
+    }
+  },
+  {
+    "id": "number-001",
+    "chinese": "一",
+    "answer": "一",
+    "pinyin": "yī",
+    "translation": "one",
+    "difficulty": 1,
+    "category": "numbers",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "一"
+    }
+  },
+  {
+    "id": "number-002",
+    "chinese": "二",
+    "answer": "二",
+    "pinyin": "èr",
+    "translation": "two",
+    "difficulty": 1,
+    "category": "numbers",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "二"
+    }
+  },
+  {
+    "id": "number-003",
+    "chinese": "三",
+    "answer": "三",
+    "pinyin": "sān",
+    "translation": "three",
+    "difficulty": 1,
+    "category": "numbers",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "三"
+    }
+  },
+  {
+    "id": "number-004",
+    "chinese": "四",
+    "answer": "四",
+    "pinyin": "sì",
+    "translation": "four",
+    "difficulty": 1,
+    "category": "numbers",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "四"
+    }
+  },
+  {
+    "id": "number-005",
+    "chinese": "五",
+    "answer": "五",
+    "pinyin": "wǔ",
+    "translation": "five",
+    "difficulty": 1,
+    "category": "numbers",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "五"
+    }
+  },
+  {
+    "id": "number-006",
+    "chinese": "六",
+    "answer": "六",
+    "pinyin": "liù",
+    "translation": "six",
+    "difficulty": 1,
+    "category": "numbers",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "六"
+    }
+  },
+  {
+    "id": "number-007",
+    "chinese": "七",
+    "answer": "七",
+    "pinyin": "qī",
+    "translation": "seven",
+    "difficulty": 1,
+    "category": "numbers",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "七"
+    }
+  },
+  {
+    "id": "number-008",
+    "chinese": "八",
+    "answer": "八",
+    "pinyin": "bā",
+    "translation": "eight",
+    "difficulty": 1,
+    "category": "numbers",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "八"
+    }
+  },
+  {
+    "id": "number-009",
+    "chinese": "九",
+    "answer": "九",
+    "pinyin": "jiǔ",
+    "translation": "nine",
+    "difficulty": 1,
+    "category": "numbers",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "九"
+    }
+  },
+  {
+    "id": "number-010",
+    "chinese": "十",
+    "answer": "十",
+    "pinyin": "shí",
+    "translation": "ten",
+    "difficulty": 1,
+    "category": "numbers",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "十"
+    }
+  },
+  {
+    "id": "time-001",
+    "chinese": "今天",
+    "answer": "今天",
+    "pinyin": "jīntiān",
+    "translation": "today",
+    "difficulty": 1,
+    "category": "time",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "今天"
+    }
+  },
+  {
+    "id": "time-002",
+    "chinese": "明天",
+    "answer": "明天",
+    "pinyin": "míngtiān",
+    "translation": "tomorrow",
+    "difficulty": 1,
+    "category": "time",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "明天"
+    }
+  },
+  {
+    "id": "time-003",
+    "chinese": "昨天",
+    "answer": "昨天",
+    "pinyin": "zuótiān",
+    "translation": "yesterday",
+    "difficulty": 1,
+    "category": "time",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "昨天"
+    }
+  },
+  {
+    "id": "time-004",
+    "chinese": "现在",
+    "answer": "现在",
+    "pinyin": "xiànzài",
+    "translation": "now",
+    "difficulty": 1,
+    "category": "time",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "现在"
+    }
+  },
+  {
+    "id": "time-005",
+    "chinese": "几点",
+    "answer": "几点",
+    "pinyin": "jǐ diǎn",
+    "translation": "what time",
+    "difficulty": 1,
+    "category": "time",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "几点"
+    }
+  },
+  {
+    "id": "time-006",
+    "chinese": "三点",
+    "answer": "三点",
+    "pinyin": "sān diǎn",
+    "translation": "three o'clock",
+    "difficulty": 1,
+    "category": "time",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "三点"
+    }
+  },
+  {
+    "id": "time-007",
+    "chinese": "上午",
+    "answer": "上午",
+    "pinyin": "shàngwǔ",
+    "translation": "morning / a.m.",
+    "difficulty": 1,
+    "category": "time",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "上午"
+    }
+  },
+  {
+    "id": "time-008",
+    "chinese": "下午",
+    "answer": "下午",
+    "pinyin": "xiàwǔ",
+    "translation": "afternoon / p.m.",
+    "difficulty": 1,
+    "category": "time",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "下午"
+    }
+  },
+  {
+    "id": "time-009",
+    "chinese": "星期一",
+    "answer": "星期一",
+    "pinyin": "xīngqīyī",
+    "translation": "Monday",
+    "difficulty": 2,
+    "category": "time",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "星期一"
+    }
+  },
+  {
+    "id": "time-010",
+    "chinese": "星期天",
+    "answer": "星期天",
+    "pinyin": "xīngqītiān",
+    "translation": "Sunday",
+    "difficulty": 2,
+    "category": "time",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "星期天"
+    }
+  },
+  {
+    "id": "family-001",
+    "chinese": "爸爸",
+    "answer": "爸爸",
+    "pinyin": "bàba",
+    "translation": "father",
+    "difficulty": 1,
+    "category": "family",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "爸爸"
+    }
+  },
+  {
+    "id": "family-002",
+    "chinese": "妈妈",
+    "answer": "妈妈",
+    "pinyin": "māma",
+    "translation": "mother",
+    "difficulty": 1,
+    "category": "family",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "妈妈"
+    }
+  },
+  {
+    "id": "family-003",
+    "chinese": "哥哥",
+    "answer": "哥哥",
+    "pinyin": "gēge",
+    "translation": "older brother",
+    "difficulty": 1,
+    "category": "family",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "哥哥"
+    }
+  },
+  {
+    "id": "family-004",
+    "chinese": "姐姐",
+    "answer": "姐姐",
+    "pinyin": "jiějie",
+    "translation": "older sister",
+    "difficulty": 1,
+    "category": "family",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "姐姐"
+    }
+  },
+  {
+    "id": "family-005",
+    "chinese": "弟弟",
+    "answer": "弟弟",
+    "pinyin": "dìdi",
+    "translation": "younger brother",
+    "difficulty": 1,
+    "category": "family",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "弟弟"
+    }
+  },
+  {
+    "id": "family-006",
+    "chinese": "妹妹",
+    "answer": "妹妹",
+    "pinyin": "mèimei",
+    "translation": "younger sister",
+    "difficulty": 1,
+    "category": "family",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "妹妹"
+    }
+  },
+  {
+    "id": "family-007",
+    "chinese": "家",
+    "answer": "家",
+    "pinyin": "jiā",
+    "translation": "home / family",
+    "difficulty": 1,
+    "category": "family",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "家"
+    }
+  },
+  {
+    "id": "family-008",
+    "chinese": "我的家",
+    "answer": "我的家",
+    "pinyin": "wǒ de jiā",
+    "translation": "my family / my home",
+    "difficulty": 1,
+    "category": "family",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "我的家"
+    }
+  },
+  {
+    "id": "family-009",
+    "chinese": "我爱妈妈",
+    "answer": "我爱妈妈",
+    "pinyin": "wǒ ài māma",
+    "translation": "I love Mom",
+    "difficulty": 2,
+    "category": "family",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "我爱妈妈"
+    }
+  },
+  {
+    "id": "family-010",
+    "chinese": "他是我哥哥",
+    "answer": "他是我哥哥",
+    "pinyin": "tā shì wǒ gēge",
+    "translation": "He is my older brother",
+    "difficulty": 2,
+    "category": "family",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "他是我哥哥"
+    }
+  },
+  {
+    "id": "food-001",
+    "chinese": "水",
+    "answer": "水",
+    "pinyin": "shuǐ",
+    "translation": "water",
+    "difficulty": 1,
+    "category": "food",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "水"
+    }
+  },
+  {
+    "id": "food-002",
+    "chinese": "茶",
+    "answer": "茶",
+    "pinyin": "chá",
+    "translation": "tea",
+    "difficulty": 1,
+    "category": "food",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "茶"
+    }
+  },
+  {
+    "id": "food-003",
+    "chinese": "米饭",
+    "answer": "米饭",
+    "pinyin": "mǐfàn",
+    "translation": "cooked rice",
+    "difficulty": 1,
+    "category": "food",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "米饭"
+    }
+  },
+  {
+    "id": "food-004",
+    "chinese": "面条",
+    "answer": "面条",
+    "pinyin": "miàntiáo",
+    "translation": "noodles",
+    "difficulty": 1,
+    "category": "food",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "面条"
+    }
+  },
+  {
+    "id": "food-005",
+    "chinese": "苹果",
+    "answer": "苹果",
+    "pinyin": "píngguǒ",
+    "translation": "apple",
+    "difficulty": 1,
+    "category": "food",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "苹果"
+    }
+  },
+  {
+    "id": "food-006",
+    "chinese": "香蕉",
+    "answer": "香蕉",
+    "pinyin": "xiāngjiāo",
+    "translation": "banana",
+    "difficulty": 1,
+    "category": "food",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "香蕉"
+    }
+  },
+  {
+    "id": "food-007",
+    "chinese": "我喝水",
+    "answer": "我喝水",
+    "pinyin": "wǒ hē shuǐ",
+    "translation": "I drink water",
+    "difficulty": 2,
+    "category": "food",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "我喝水"
+    }
+  },
+  {
+    "id": "food-008",
+    "chinese": "我喜欢喝茶",
+    "answer": "我喜欢喝茶",
+    "pinyin": "wǒ xǐhuan hē chá",
+    "translation": "I like drinking tea",
+    "difficulty": 2,
+    "category": "food",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "我喜欢喝茶"
+    }
+  },
+  {
+    "id": "food-009",
+    "chinese": "这个很好吃",
+    "answer": "这个很好吃",
+    "pinyin": "zhège hěn hǎochī",
+    "translation": "This is delicious",
+    "difficulty": 2,
+    "category": "food",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "这个很好吃"
+    }
+  },
+  {
+    "id": "food-010",
+    "chinese": "我要一碗米饭",
+    "answer": "我要一碗米饭",
+    "pinyin": "wǒ yào yì wǎn mǐfàn",
+    "translation": "I want a bowl of rice",
+    "difficulty": 3,
+    "category": "food",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "我要一碗米饭"
+    }
+  },
+  {
+    "id": "school-001",
+    "chinese": "学校",
+    "answer": "学校",
+    "pinyin": "xuéxiào",
+    "translation": "school",
+    "difficulty": 1,
+    "category": "school",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "学校"
+    }
+  },
+  {
+    "id": "school-002",
+    "chinese": "老师",
+    "answer": "老师",
+    "pinyin": "lǎoshī",
+    "translation": "teacher",
+    "difficulty": 1,
+    "category": "school",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "老师"
+    }
+  },
+  {
+    "id": "school-003",
+    "chinese": "学生",
+    "answer": "学生",
+    "pinyin": "xuésheng",
+    "translation": "student",
+    "difficulty": 1,
+    "category": "school",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "学生"
+    }
+  },
+  {
+    "id": "school-004",
+    "chinese": "中文",
+    "answer": "中文",
+    "pinyin": "Zhōngwén",
+    "translation": "Chinese language",
+    "difficulty": 1,
+    "category": "school",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "中文"
+    }
+  },
+  {
+    "id": "school-005",
+    "chinese": "汉字",
+    "answer": "汉字",
+    "pinyin": "Hànzì",
+    "translation": "Chinese characters",
+    "difficulty": 1,
+    "category": "school",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "汉字"
+    }
+  },
+  {
+    "id": "school-006",
+    "chinese": "学习",
+    "answer": "学习",
+    "pinyin": "xuéxí",
+    "translation": "to study",
+    "difficulty": 1,
+    "category": "school",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "学习"
+    }
+  },
+  {
+    "id": "school-007",
+    "chinese": "我学习中文",
+    "answer": "我学习中文",
+    "pinyin": "wǒ xuéxí Zhōngwén",
+    "translation": "I study Chinese",
+    "difficulty": 2,
+    "category": "school",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "我学习中文"
+    }
+  },
+  {
+    "id": "school-008",
+    "chinese": "她是老师",
+    "answer": "她是老师",
+    "pinyin": "tā shì lǎoshī",
+    "translation": "She is a teacher",
+    "difficulty": 2,
+    "category": "school",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "她是老师"
+    }
+  },
+  {
+    "id": "school-009",
+    "chinese": "我是学生",
+    "answer": "我是学生",
+    "pinyin": "wǒ shì xuésheng",
+    "translation": "I am a student",
+    "difficulty": 2,
+    "category": "school",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "我是学生"
+    }
+  },
+  {
+    "id": "school-010",
+    "chinese": "请写汉字",
+    "answer": "请写汉字",
+    "pinyin": "qǐng xiě Hànzì",
+    "translation": "Please write Chinese characters",
+    "difficulty": 2,
+    "category": "school",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "请写汉字"
+    }
+  },
+  {
+    "id": "transport-001",
+    "chinese": "车",
+    "answer": "车",
+    "pinyin": "chē",
+    "translation": "vehicle / car",
+    "difficulty": 1,
+    "category": "transportation",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "车"
+    }
+  },
+  {
+    "id": "transport-002",
+    "chinese": "公交车",
+    "answer": "公交车",
+    "pinyin": "gōngjiāochē",
+    "translation": "bus",
+    "difficulty": 2,
+    "category": "transportation",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "公交车"
+    }
+  },
+  {
+    "id": "transport-003",
+    "chinese": "地铁",
+    "answer": "地铁",
+    "pinyin": "dìtiě",
+    "translation": "subway",
+    "difficulty": 2,
+    "category": "transportation",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "地铁"
+    }
+  },
+  {
+    "id": "transport-004",
+    "chinese": "火车",
+    "answer": "火车",
+    "pinyin": "huǒchē",
+    "translation": "train",
+    "difficulty": 1,
+    "category": "transportation",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "火车"
+    }
+  },
+  {
+    "id": "transport-005",
+    "chinese": "飞机",
+    "answer": "飞机",
+    "pinyin": "fēijī",
+    "translation": "airplane",
+    "difficulty": 1,
+    "category": "transportation",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "飞机"
+    }
+  },
+  {
+    "id": "transport-006",
+    "chinese": "车站",
+    "answer": "车站",
+    "pinyin": "chēzhàn",
+    "translation": "station",
+    "difficulty": 1,
+    "category": "transportation",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "车站"
+    }
+  },
+  {
+    "id": "transport-007",
+    "chinese": "我坐地铁",
+    "answer": "我坐地铁",
+    "pinyin": "wǒ zuò dìtiě",
+    "translation": "I take the subway",
+    "difficulty": 2,
+    "category": "transportation",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "我坐地铁"
+    }
+  },
+  {
+    "id": "transport-008",
+    "chinese": "他坐公交车",
+    "answer": "他坐公交车",
+    "pinyin": "tā zuò gōngjiāochē",
+    "translation": "He takes the bus",
+    "difficulty": 2,
+    "category": "transportation",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "他坐公交车"
+    }
+  },
+  {
+    "id": "transport-009",
+    "chinese": "我们去车站",
+    "answer": "我们去车站",
+    "pinyin": "wǒmen qù chēzhàn",
+    "translation": "We go to the station",
+    "difficulty": 2,
+    "category": "transportation",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "我们去车站"
+    }
+  },
+  {
+    "id": "transport-010",
+    "chinese": "飞机几点到",
+    "answer": "飞机几点到",
+    "pinyin": "fēijī jǐ diǎn dào",
+    "translation": "What time does the plane arrive?",
+    "difficulty": 3,
+    "category": "transportation",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "飞机几点到"
+    }
+  },
+  {
+    "id": "daily-001",
+    "chinese": "起床",
+    "answer": "起床",
+    "pinyin": "qǐchuáng",
+    "translation": "get up",
+    "difficulty": 1,
+    "category": "daily",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "起床"
+    }
+  },
+  {
+    "id": "daily-002",
+    "chinese": "吃饭",
+    "answer": "吃饭",
+    "pinyin": "chīfàn",
+    "translation": "eat a meal",
+    "difficulty": 1,
+    "category": "daily",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "吃饭"
+    }
+  },
+  {
+    "id": "daily-003",
+    "chinese": "睡觉",
+    "answer": "睡觉",
+    "pinyin": "shuìjiào",
+    "translation": "sleep",
+    "difficulty": 1,
+    "category": "daily",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "睡觉"
+    }
+  },
+  {
+    "id": "daily-004",
+    "chinese": "工作",
+    "answer": "工作",
+    "pinyin": "gōngzuò",
+    "translation": "work",
+    "difficulty": 1,
+    "category": "daily",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "工作"
+    }
+  },
+  {
+    "id": "daily-005",
+    "chinese": "回家",
+    "answer": "回家",
+    "pinyin": "huí jiā",
+    "translation": "go home",
+    "difficulty": 1,
+    "category": "daily",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "回家"
+    }
+  },
+  {
+    "id": "daily-006",
+    "chinese": "看书",
+    "answer": "看书",
+    "pinyin": "kàn shū",
+    "translation": "read a book",
+    "difficulty": 1,
+    "category": "daily",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "看书"
+    }
+  },
+  {
+    "id": "daily-007",
+    "chinese": "听音乐",
+    "answer": "听音乐",
+    "pinyin": "tīng yīnyuè",
+    "translation": "listen to music",
+    "difficulty": 2,
+    "category": "daily",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "听音乐"
+    }
+  },
+  {
+    "id": "daily-008",
+    "chinese": "我七点起床",
+    "answer": "我七点起床",
+    "pinyin": "wǒ qī diǎn qǐchuáng",
+    "translation": "I get up at seven",
+    "difficulty": 2,
+    "category": "daily",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "我七点起床"
+    }
+  },
+  {
+    "id": "daily-009",
+    "chinese": "晚上我看书",
+    "answer": "晚上我看书",
+    "pinyin": "wǎnshang wǒ kàn shū",
+    "translation": "I read at night",
+    "difficulty": 2,
+    "category": "daily",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "晚上我看书"
+    }
+  },
+  {
+    "id": "daily-010",
+    "chinese": "明天我要工作",
+    "answer": "明天我要工作",
+    "pinyin": "míngtiān wǒ yào gōngzuò",
+    "translation": "I have to work tomorrow",
+    "difficulty": 2,
+    "category": "daily",
+    "audio": {
+      "type": "speechSynthesis",
+      "lang": "zh-CN",
+      "text": "明天我要工作"
+    }
+  }
+]
